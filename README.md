@@ -1,14 +1,12 @@
-<h1 align="center">👋 Hi, I'm Matt</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Product+Manager;I+ship+production+AI+agents%2C+hands-on;0-to-1+builder+%C2%B7+MCP+%C2%B7+multi-agent+systems" alt="Matt Zheng" />
+
+<a href="https://mattzheng.nyc">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=111111&background=FFD43BFF&center=true&vCenter=true&width=900&height=200&lines=Hi%2C+I'm+Matt;AI+Product+Manager;I+ship+production+AI+agents%2C+hands-on;0-to-1+builder+%C2%B7+MCP+%C2%B7+multi-agent+systems" alt="Matt Zheng" />
+</a>
+
+<p><samp>Open to AI Product Manager roles</samp></p>
+
 </div>
-
-<p align="center"><samp>Open to AI Product Manager roles</samp></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=che-3&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="profile views" />
-</p>
 
 <hr>
 
