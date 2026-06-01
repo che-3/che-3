@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mattzheng.nyc">
-  <img width="100%" alt="Hi, I'm Matt - AI & Hardware Product Manager" src="https://cdn.jsdelivr.net/gh/che-3/che-3@65d76be7e7dccd8756307d37956c21188e8f1afb/banner.svg" />
+  <img width="100%" alt="Hi, I'm Matt - AI & Hardware Product Manager" src="https://cdn.jsdelivr.net/gh/che-3/che-3@efbc30b3906a34f0527a4680a7f18aa6ec8d5071/banner.svg" />
 </a>
 
 <p><samp><strong>Open to AI Product Manager roles</strong></samp></p>
