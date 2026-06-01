@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Hi, I'm Matt - AI and Hardware Product Manager">
+  <style>
+    @keyframes fade { from { opacity: 0 } to { opacity: 1 } }
+    .wrap { animation: fade 0.9s ease-out both }
+    .name { font: 800 56px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #111111 }
+    .role { font: 600 24px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1a1a1a }
+    .tag  { font: 600 16px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #3a3a3a }
+  </style>
+  <rect width="900" height="230" fill="#FFD43B"/>
+  <g class="wrap" text-anchor="middle">
+    <text x="450" y="106" class="name">Hi, I'm Matt!</text>
+    <text x="450" y="149" class="role">AI &amp; Hardware Product Manager</text>
+    <text x="450" y="183" class="tag">Ships production AI agents &#183; 0-to-1 builder &#183; MCP &#183; multi-agent systems</text>
+  </g>
+</svg>
