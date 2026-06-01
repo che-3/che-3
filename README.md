@@ -1,10 +1,12 @@
 <div align="center">
 
 <a href="https://mattzheng.nyc">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=111111&background=FFD43BFF&center=true&vCenter=true&width=900&height=200&lines=Hi%2C+I'm+Matt;AI+Product+Manager;Hardware+Product+Manager;I+ship+production+AI+agents%2C+hands-on;0-to-1+builder+%C2%B7+MCP+%C2%B7+multi-agent+systems" alt="Matt Zheng" />
+  <img width="100%" alt="Hi, I'm Matt - AI & Hardware Product Manager" src="https://capsule-render.vercel.app/api?type=rect&color=FFD43B&height=220&text=Hi%2C%20I%27m%20Matt%21&fontColor=111111&fontSize=54&fontAlignY=42&desc=AI%20%26%20Hardware%20Product%20Manager&descSize=22&descAlignY=64&animation=fadeIn" />
 </a>
 
-<p><samp>Open to AI Product Manager roles</samp></p>
+<p><samp>I ship production AI agents · 0-to-1 builder · MCP · multi-agent systems 🥫</samp></p>
+
+<p><samp><strong>Open to AI Product Manager roles</strong></samp></p>
 
 </div>
 
