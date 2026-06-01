@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mattzheng.nyc">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=111111&background=FFD43BFF&center=true&vCenter=true&width=900&height=200&lines=Hi%2C+I'm+Matt;AI+Product+Manager;I+ship+production+AI+agents%2C+hands-on;0-to-1+builder+%C2%B7+MCP+%C2%B7+multi-agent+systems" alt="Matt Zheng" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=111111&background=FFD43BFF&center=true&vCenter=true&width=900&height=200&lines=Hi%2C+I'm+Matt;AI+Product+Manager;Hardware+Product+Manager;I+ship+production+AI+agents%2C+hands-on;0-to-1+builder+%C2%B7+MCP+%C2%B7+multi-agent+systems" alt="Matt Zheng" />
 </a>
 
 <p><samp>Open to AI Product Manager roles</samp></p>
