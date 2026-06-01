@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Hi, I'm Matt - AI and Hardware Product Manager">
   <style>
-    .name { font: 800 62px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#111111 }
-    .role { font: 600 27px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#1a1a1a }
-    .tag  { font: 600 17px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#3a3a3a }
+    .name { font: 800 62px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#2A2420 }
+    .role { font: 600 27px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#2A2420 }
+    .tag  { font: 600 17px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#6B5D4B }
   </style>
-  <rect width="900" height="460" fill="#FFD43B"/>
+  <rect width="900" height="460" fill="#F6F1EB"/>
   <g transform="translate(0,-320)">
     <text x="450" y="195" text-anchor="middle" class="name">Hi, I'm Matt!</text>
     <animateTransform attributeName="transform" type="translate" values="0 -320; 0 0; 7 0; -7 0; 3 0; 0 0" keyTimes="0;0.55;0.7;0.82;0.92;1" calcMode="spline" keySplines="0.12 0.8 0.25 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" dur="1.5s" fill="freeze"/>
