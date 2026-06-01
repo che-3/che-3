@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mattzheng.nyc">
-  <img width="100%" alt="Hi, I'm Matt - AI & Hardware Product Manager" src="https://cdn.jsdelivr.net/gh/che-3/che-3@416514b017b72fb5ecd1b0179ce3853eb8fc5738/banner.svg" />
+  <img width="100%" alt="Hi, I'm Matt - AI & Hardware Product Manager" src="https://cdn.jsdelivr.net/gh/che-3/che-3@65d76be7e7dccd8756307d37956c21188e8f1afb/banner.svg" />
 </a>
 
 <p><samp><strong>Open to AI Product Manager roles</strong></samp></p>
@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Who I am</h2>
+<h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
   Hands-on AI Product Manager who ships production AI agents, not just roadmaps.<br>
@@ -23,9 +23,11 @@
 
 <h2 align="center">🛠️ What I build</h2>
 <p align="center">
+  <samp>
   🤖 Production AI agents with deterministic guardrails + human-in-the-loop<br>
   🧩 MCP servers &amp; multi-agent systems<br>
   🚀 0-to-1 products &amp; B2B commerce platforms
+  </samp>
 </p>
 
 <hr>
