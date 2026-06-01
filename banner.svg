@@ -1,15 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Hi, I'm Matt - AI and Hardware Product Manager">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Hi, I'm Matt - AI and Hardware Product Manager">
   <style>
-    @keyframes fade { from { opacity: 0 } to { opacity: 1 } }
-    .wrap { animation: fade 0.9s ease-out both }
-    .name { font: 800 56px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #111111 }
-    .role { font: 600 24px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1a1a1a }
-    .tag  { font: 600 16px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #3a3a3a }
+    .name { font: 800 58px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#111111 }
+    .role { font: 600 24px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#1a1a1a }
+    .tag  { font: 600 16px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill:#3a3a3a }
   </style>
-  <rect width="900" height="230" fill="#FFD43B"/>
-  <g class="wrap" text-anchor="middle">
-    <text x="450" y="106" class="name">Hi, I'm Matt!</text>
-    <text x="450" y="149" class="role">AI &amp; Hardware Product Manager</text>
-    <text x="450" y="183" class="tag">Ships production AI agents &#183; 0-to-1 builder &#183; MCP &#183; multi-agent systems</text>
+  <rect width="900" height="460" fill="#FFD43B"/>
+  <g transform="translate(0,-260)">
+    <text x="450" y="208" text-anchor="middle" class="name">Hi, I'm Matt!</text>
+    <animateTransform attributeName="transform" type="translate" values="0 -260; 0 0" dur="0.85s" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" fill="freeze"/>
+  </g>
+  <g transform="translate(0,220)">
+    <text x="431" y="266" text-anchor="middle" class="role">AI &amp; Hardware Product Manager</text>
+    <image x="622" y="244" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAwFBMVEVHcEzm5+iZqrXm5+jm5+iZqrWZqrXByc+ZqrXm5+iZqrXm5+jm5+iZqrXd4eNjlkLU2+GZqrXh5ObM1t3Z3+PU2dp9onGgz4KHtWpsmFyuxKLk5ufJ0NVckTvAyc90pFZtnk6m04jP2N7m5+jrzlqtusP1yEyhsLrQu0e10n57rVuKpJePvnCduo3/rDN4mz2TqKr/szmKo0P/yUr/zE2ur0TgwUqZp0LT0GvC0Xb/wEKWxXf5zFGCoYfE0r3/vEBF1wfEAAAADnRSTlMAv0CAROeAFZ+fv+/fUPfQ2VwAAAKASURBVHhe7dfXcuIwFAZgjAEDSyS5905v6b3s+7/VSvKGOAlqk5lc8V8a++NItiWfDiNGT9c1bVK3MtE0Xe8ZHfn0dO1PzcwfTe9JKSOKxJbjIFTZrVQIOY4VU2wksnoTgjioqshF9CqaxsY4/YVgEx5ljDADMAIaIbaAcwj4z8YAYwBTI/Z0YSdGthMfzkfoA0Lo8A+xY6MYS0wIA47t1DSVjaz6SyxkV9g5nPZzKBZAiXhodWtoCRNaJCqTnSyY0NCcAdnbD2bmkAkZQ9OcJZb4gbSSmWkOeW9LeGFiK3MxxorlZlgxL8IOL2kavhLLXMyyzHVBWwCum2WzhUmU1zBN+RBJ6G0wxsrFxsNKKoaawNDzNsRrCxvPCyFFxJBCTtAJOkEpvF/Ob3Dmy3v4E+iWKk3mtypQ3mbO724+5e687eRcyC8+nKumnOu/ONdNUVcfTuFzobIM4LtDmafLPc3lE6Xea4JBWQqg0g8KOq45qaZhGopUNadSEfilGKJWDpctpyUtYU4VGYjmkQyEOG2JHHvEhAo0JfOz/xIyT1M1aEUK2n8LObpSgh6ago6V9KAETQ8z9G2WpkpQM7LjY/t96AT9/Pb/7gO5lX9FtlwIPsu+tM9QsPivfZllxF+LdxG4plVNjy9sU1rNGqZiiFpbf/VybKl9WflbqshBFDu6+F9RRBoSb0diiL9B/vqWLf6IOH1oGSMViNv3q0C8vl8NqjnQTt7Z8fv+CMoxMBL1/SDKxUweAZm+342Cgo0UQeQq9P3gLdp53iev8Lxd9Abk+v6zvmzf3z/r8NMd9sV9f3/YpYDIGowxxkp/PMCKdIzuYDAmXlsYDwZd1sT8A+mRlDOeQ21OAAAAAElFTkSuQmCC"/>
+    <text x="450" y="308" text-anchor="middle" class="tag">Ships production AI agents &#183; 0-to-1 builder &#183; MCP &#183; multi-agent systems</text>
+    <animateTransform attributeName="transform" type="translate" values="0 220; 0 0" dur="0.85s" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" fill="freeze"/>
   </g>
 </svg>
