@@ -4,7 +4,6 @@
   <img width="100%" alt="Hi, I'm Matt - AI & Hardware Product Manager" src="https://cdn.jsdelivr.net/gh/che-3/che-3@e304ab4c8637b93cc5160fe0720d8b540cfb18eb/banner.svg" />
 </a>
 
-<p><samp><strong></strong></samp></p>
 
 </div>
 
